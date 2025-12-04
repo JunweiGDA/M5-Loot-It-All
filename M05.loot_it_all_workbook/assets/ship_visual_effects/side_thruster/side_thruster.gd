@@ -17,4 +17,3 @@ func _process(delta: float) -> void:
 	else:
 		power = max(0.0, power - 2.0 * delta)
 	power = max(0.0, power - 2.0 * delta)
-
