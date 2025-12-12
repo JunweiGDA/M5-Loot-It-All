@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bvhfhl5wjf1pf"
+path="res://.godot/imported/BG Music.ogg-3fef31ee12e2d1ac99cdadc9cb73363d.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/audio/BG Music.ogg"
+dest_files=["res://.godot/imported/BG Music.ogg-3fef31ee12e2d1ac99cdadc9cb73363d.oggvorbisstr"]
+
+[params]
+
+loop=true
+loop_offset=0.0
+bpm=0.0
+beat_count=0
+bar_beats=4
